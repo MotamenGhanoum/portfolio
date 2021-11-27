@@ -1,0 +1,23 @@
+@import '../../node_modules/normalize.css/normalize';
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+@import 'variables';
+@import 'typografi';
+@import 'code';
+@import 'blockquote';
+@import 'header';
+@import 'main';
+@import 'footer';
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&family=Playfair+Display&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,64 @@
+.header,
+.site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    margin-bottom: 3em;
+}
+
+
+.nav a {
+    display: inline-block;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: $background-color-text;
+    border: 2px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a:hover,
+a:active {
+    background-color: $background-color-a;
+    color: $a-color;
+}
+
+.title p {
+    color: $title-p-text-color;
+}
+
+.title {
+    padding: 0 3em 3em 2em;
+    margin: 1em 1em 1em 2em;
+    font-style: italic;
+    text-align: center;
+}
+
+.title h1 {
+    color: $title-h1-text-color;
+    margin-bottom: 0;
+}
+
+.logo img {
+    padding: 1em;
+    margin-left: -10;
+    height: 200px;
+    width: 200px;
+}
+
+@media (max-width: 767px) {
+    .title,
+    .logo {
+        padding: 1em 1em 1em 0;
+    }
+
+    .title {
+        min-width: 50%;
+    }
+
+    .logo {
+        display: none !important;
+    }
+}

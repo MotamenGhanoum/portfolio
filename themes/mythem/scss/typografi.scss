@@ -1,0 +1,46 @@
+* {
+    font-family: 'Outfit', sans-serif;
+}
+
+pre {
+    font-family: 'Playfair Display', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Outfit', sans-serif;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+
+html {
+    font-size: 100%;
+}
+
+p {
+    font-size: 1em;
+}
+
+@media (min-width: 64em) {
+    html {
+        font-size: 112.5%;
+    }
+}
+
+body {
+    line-height: $main-line-height;
+}
+
+h1 {
+    font-size: $main-font-size;
+    margin-bottom: $basic-bottom;
+}
+
+p {
+    font-size: 1.5em;
+    margin-bottom: 1.75rem;
+}
