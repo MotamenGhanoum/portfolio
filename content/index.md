@@ -19,5 +19,9 @@ Nu jobbar jag som adminstretör i Navigatorcentrum Ronneby. Tidigare jobbade jag
 Det mesta av min fritid tillbring jag med mina två dottar och min fru. Fotboll är min favorit sport och ibland spelar jag tennis.
 
 Vi syns och hörs på Discord
+
 Med Vänliga Hälsningar
+
+
+
 </pre>

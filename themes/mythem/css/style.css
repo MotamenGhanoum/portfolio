@@ -6641,6 +6641,10 @@ body {
   display: flex;
   justify-content: space-between;
   border-top: 3px solid #222;
+  height: 150px;
+  width: 100%;
+  position: relative;
+  min-height: 100px;
 }
 
 .footer {
