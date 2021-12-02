@@ -6623,7 +6623,7 @@ body {
   height: 500px;
 }
 
-.main p {
+.me {
   padding: 0 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
@@ -6649,14 +6649,14 @@ body {
 
 .technology-container .technology {
   grid-column: span 1;
-  border: 2px solid #900C3F;
+  border: 2px solid #900c3f;
   display: flex;
   flex-direction: column;
 }
 
 .technology-container .technology h2 {
-  background-color: #4D455C;
-  color: #DE6B06;
+  background-color: #4d455c;
+  color: #de6b06;
   margin-bottom: 1em;
   padding-bottom: 1em;
 }
