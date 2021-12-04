@@ -1,7 +1,7 @@
 ---
 Title: Technology
 Description: This is a page with Technologies I use.
-Template: Technologies
+Template: technologies 
 ---
 
 Technologies

@@ -1,7 +1,7 @@
 ---
 Title: Git
 Description: Git
-Template: Technology
+Template: technology
 ---
 
 #Git

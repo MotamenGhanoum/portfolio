@@ -1,7 +1,7 @@
 ---
 Title: Python
 Description: Python
-Template: Technology
+Template: technology
 ---
 
 #Python

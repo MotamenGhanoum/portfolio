@@ -1,7 +1,7 @@
 ---
 Title: Sqlite
 Description: Sqlite
-Template: Technology
+Template: technology
 ---
 
 #Sqlite

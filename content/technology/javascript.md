@@ -1,7 +1,7 @@
 ---
 Title: Javascript
 Description: Javascript
-Template: Technology
+Template: technology
 ---
 
 #Javascript

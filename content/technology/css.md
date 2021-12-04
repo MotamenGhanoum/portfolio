@@ -1,7 +1,7 @@
 ---
 Title: CSS
 Description: CSS
-Template: Technology
+Template: technology
 ---
 
 #CSS

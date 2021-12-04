@@ -1,7 +1,7 @@
 ---
 Title: HTML
 Description: HTML
-Template: Technology
+Template: technology
 ---
 
 #HTML
